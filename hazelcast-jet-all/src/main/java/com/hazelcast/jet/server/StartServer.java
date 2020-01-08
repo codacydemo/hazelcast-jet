@@ -36,6 +36,7 @@ import static com.hazelcast.nio.IOUtil.closeResource;
 public final class StartServer {
 
     private StartServer() {
+        System.out.println("Hello, World!");
     }
 
     /**
